@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="1000" src="https://github.com/rahulbaghel007/Rahul-Baghel007/blob/main/standard%20(1).gif">
+<img align="center" alt="Coding" width="1000" src="https://github.com/rahulbaghel007/rahulbaghel007/blob/main/standard%20(1).gif">
 <h1 align="center">Hi 👋, I'm Rahul Baghel</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
