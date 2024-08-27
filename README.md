@@ -1,23 +1,23 @@
 <img align="center" alt="Coding" width="1000" src="https://github.com/rahulbaghel007/rahulbaghel007/blob/main/standard%20(1).gif">
 <h1 align="center">Hi 👋, I'm Rahul Baghel</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif">
+<h3 align="center">A passionate Firmware developer from India</h3>
+<!-- <img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:1600/0*C-cPP9D2MIyeexAT.gif"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulbaghel007&label=Profile%20views&color=0e75b6&style=flat" alt="rahulbaghel007" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, React**
+- 🌱 I’m currently learning **C lang, C++ and getting more Rusty**
 
-- 💬 Ask me about **C++**
+- 💬 Ask me Anything.
 
-- 📫 How to reach me **codeforbest@gmail.com**
+- 📫 How to reach me **rahulbaghel5720@gmail.com**
 
-- ⚡ Fun fact **Fact can never to fun **
+- ⚡ Fun fact **You could say firmware is like the middle child—often overlooked but absolutely crucial for keeping things running smoothly!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-baghel-spacecoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-baghel-spacecoder/" height="30" width="40" /></a>
+<!-- <a href="https://linkedin.com/in/https://www.linkedin.com/in/rahul-baghel-spacecoder/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/rahul-baghel-spacecoder/" height="30" width="40" /></a> -->
 <a href="https://www.leetcode.com/https://leetcode.com/rahulbaghel007/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/rahulbaghel007/" height="30" width="40" /></a>
 </p>
 
